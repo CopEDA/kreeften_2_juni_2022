@@ -2,4 +2,4 @@
 Repository voor de bijeenkomst van 2 juni 2022
 
 ## Aanmelden
-Op 2 juni hebben we wer een nieuwe bijeenkomst. 
+Op 2 juni hebben we weer een nieuwe bijeenkomst. 
