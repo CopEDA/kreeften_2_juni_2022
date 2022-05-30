@@ -1,3 +1,5 @@
+# R-script om snel te starten met de analyse van de kreeftendata
+
 library(tidyverse)
 library(readxl)
 
