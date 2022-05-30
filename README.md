@@ -10,3 +10,5 @@ De kreeften dataset is te vinden op <https://github.com/CopEDA/kreeften_2_juni_2
 
 
 ## Link presentatie
+
+[Toelichting dataset kreeften](https://redtent.github.io/presentaties/kreeften_data_presentatie.html)
