@@ -9,3 +9,5 @@ De kreeftendataset is te vinden in het bestand **data_kreeften_vegetatie_HHSK_Co
 ## Link presentatie
 
 [Toelichting dataset kreeften](https://redtent.github.io/presentaties/kreeften_data_presentatie.html)
+
+<https://www.bnnvara.nl/vroegevogels/artikelen/invasie-van-uitheemse-rivierkreeften>
