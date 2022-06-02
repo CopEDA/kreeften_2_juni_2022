@@ -3,7 +3,7 @@ Repository voor de bijeenkomst van 2 juni 2022
 
 ## Dataset
 
-De kreeftendataset is te in het bestand **data_kreeften_vegetatie_HHSK_CoP_Ecodata 2-6-2022.xlsx**.
+De kreeftendataset is te vinden in het bestand **data_kreeften_vegetatie_HHSK_CoP_Ecodata 2-6-2022.xlsx**.
 
 
 ## Link presentatie
